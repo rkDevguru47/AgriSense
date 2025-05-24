@@ -106,18 +106,13 @@ We welcome contributions to AgriSense! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/agrisense/issues)
-- **Email**: support@agrisense.com
-- **Documentation**: [Wiki](https://github.com/yourusername/agrisense/wiki)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## 🙏 Acknowledgments
 
 - Plant Village dataset contributors
 - Google Cloud Platform
+- SOA, ITER Mentors and Teammates
 - Open source machine learning community
 - Agricultural research institutions
 
